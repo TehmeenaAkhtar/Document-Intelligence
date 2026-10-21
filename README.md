@@ -49,5 +49,3 @@ The API also reports whether any required fields are missing and whether the doc
 
 
 ---
-
-**Note:** This project is a work in progress. Extraction results may vary depending on the PDF layout and document quality.
