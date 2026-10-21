@@ -1,0 +1,110 @@
+{
+  "01_standard.pdf": {
+    "invoice_number": "INV-001",
+    "customer": "Ahmed",
+    "invoice_date": "19 October 2026",
+    "total_amount": "PKR 5,000"
+  },
+  "02_other_labels.pdf": {
+    "invoice_number": "INV-002",
+    "customer": "Fatima Traders",
+    "invoice_date": "2 September 2026",
+    "total_amount": "PKR 18,400"
+  },
+  "03_hash_label.pdf": {
+    "invoice_number": "2026-0099",
+    "customer": "Hassan & Sons",
+    "invoice_date": "01/10/2026",
+    "total_amount": "$1,250.00"
+  },
+  "04_capital_letters.pdf": {
+    "invoice_number": "INV-004",
+    "customer": "Zara Enterprises",
+    "invoice_date": "7 Oct 2026",
+    "total_amount": "Rs. 12,500.00"
+  },
+  "05_missing_customer.pdf": {
+    "invoice_number": "INV-005",
+    "customer": null,
+    "invoice_date": "5 August 2026",
+    "total_amount": "PKR 3,200"
+  },
+  "06_with_tax_lines.pdf": {
+    "invoice_number": "INV-006",
+    "customer": "Usman Electronics",
+    "invoice_date": "12 July 2026",
+    "total_amount": "PKR 4,500"
+  },
+  "07_value_on_next_line.pdf": {
+    "invoice_number": "INV-007",
+    "customer": "Sara Khan",
+    "invoice_date": "3 September 2026",
+    "total_amount": "PKR 12,500"
+  },
+  "08_no_colon.pdf": {
+    "invoice_number": "INV-008",
+    "customer": "Bilal Traders",
+    "invoice_date": "14 June 2026",
+    "total_amount": "PKR 9,900"
+  },
+  "09_extra_text_after_value.pdf": {
+    "invoice_number": "INV-009",
+    "customer": "Noor Pharmacy",
+    "invoice_date": "20 May 2026",
+    "total_amount": "PKR 8,000"
+  },
+  "10_unknown_labels.pdf": {
+    "invoice_number": "BX-2210",
+    "customer": "Imran Hardware Store",
+    "invoice_date": "8 Oct 2026",
+    "total_amount": "PKR 21,750"
+  },
+  "11_written_as_sentence.pdf": {
+    "invoice_number": "INV-011",
+    "customer": "Ahmed",
+    "invoice_date": "4 June 2026",
+    "total_amount": "PKR 6,300"
+  },
+  "12_table_then_details.pdf": {
+    "invoice_number": "INV-012",
+    "customer": "Mehreen Salon",
+    "invoice_date": "15 Sept 2026",
+    "total_amount": "PKR 3,000"
+  },
+  "13_client_label.pdf": {
+    "invoice_number": "INV-013",
+    "customer": "Kareem Motors",
+    "invoice_date": "11 Aug 2026",
+    "total_amount": "PKR 11,700"
+  },
+  "14_all_on_one_line.pdf": {
+    "invoice_number": "INV-014",
+    "customer": "Rana Foods",
+    "invoice_date": "2 Jan 2026",
+    "total_amount": "PKR 4,200"
+  },
+  "word_invoice.pdf": {
+    "invoice_number": "INV-101",
+    "customer": "Sara Ahmed",
+    "invoice_date": "20 October 2026",
+    "total_amount": "PKR 8,500"
+  },
+  "google_docs_invoice.pdf": {
+    "invoice_number": "INV-102",
+    "customer": "Ali Raza",
+    "invoice_date": "18 October 2026",
+    "total_amount": "PKR 12,000"
+  },
+    "canva_invoice.pdf": {
+    "invoice_number": "INV-103",
+    "customer": "Hira Malik",
+    "invoice_date": "17 October 2026",
+    "total_amount": "PKR 6,750"
+  },
+    "downloaded_template.pdf": {
+    "invoice_number": "INV-104",
+    "customer": "Usman Tariq",
+    "invoice_date": "16 October 2026",
+    "total_amount": "PKR 9,200"
+  }
+}
